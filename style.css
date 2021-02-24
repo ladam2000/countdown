@@ -35,8 +35,8 @@ body{
 }
 .countd{
   display: inline-block;
-  width: 80px;
-  height: 80px;
+  width: 90px;
+  height: 90px;
   border: 2px solid;
   margin: 0 30px;
   font-size: 12px;
